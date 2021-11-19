@@ -1,7 +1,5 @@
 # WeLoveMovies
 
-## Check out my deployed [API](https://powerful-depths-70207.herokuapp.com/)
-
 ## Routes:
 * GET /movies
 * GET /movies?is_showing=true
