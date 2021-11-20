@@ -49,6 +49,7 @@ https://github.com/khangbeo/WeLoveMovies-client
 
 ## /reviews PUT
 ![reviews-1](/images/reviews-reviewId-1.PNG)
+
+## /reviews DELETE
 ![reviews-2](/images/reviews-reviewId-2.PNG)
-=======
->>>>>>> 825826ed8c3537ec62b4fa14f88d7d0989110b8f
+
