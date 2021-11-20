@@ -1,4 +1,8 @@
 # WeLoveMovies
+Backend Capstone for Thinkful
+
+## Check out the WeLoveMovies Frontend here!
+https://github.com/khangbeo/WeLoveMovies-client
 
 ## Tasks:
 * Built API conforming to RESTful standards
@@ -17,6 +21,7 @@
 * Express.js
 * PostgreSQL
 * Knex.js
+<<<<<<< HEAD
 
 ## Routes:
 * GET /movies
@@ -45,3 +50,5 @@
 ## /reviews PUT
 ![reviews-1](/images/reviews-reviewId-1.PNG)
 ![reviews-2](/images/reviews-reviewId-2.PNG)
+=======
+>>>>>>> 825826ed8c3537ec62b4fa14f88d7d0989110b8f
