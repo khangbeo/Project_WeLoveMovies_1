@@ -1,5 +1,8 @@
 # WeLoveMovies
 
+## WeLoveMovies Client
+https://github.com/khangbeo/WeLoveMovies-client
+
 ## Routes:
 * GET /movies
 * GET /movies?is_showing=true
