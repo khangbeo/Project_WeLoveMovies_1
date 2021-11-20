@@ -2,8 +2,8 @@
 Backend Capstone for Thinkful
 
 ## Links
-Front end Repo: https://github.com/khangbeo/WeLoveMovies-client
-Deployed App: https://welovemovies.netlify.app/
+* Front end Repo: https://github.com/khangbeo/WeLoveMovies-client
+* Deployed App: https://welovemovies.netlify.app/
 
 ## Tasks:
 * Built API conforming to RESTful standards
