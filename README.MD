@@ -1,6 +1,7 @@
 # WeLoveMovies
+Backend Capstone for Thinkful
 
-## WeLoveMovies Client
+## Check out the WeLoveMovies Frontend here!
 https://github.com/khangbeo/WeLoveMovies-client
 
 ## Routes:
