@@ -22,7 +22,6 @@ Backend Capstone for Thinkful
 * Express.js
 * PostgreSQL
 * Knex.js
-<<<<<<< HEAD
 
 ## Routes:
 * GET /movies
